@@ -73,6 +73,14 @@ Follow the installation wizard.
 
 
 Complete installation and reboot.
+## Setup GUI :
+### after a login please choose 
+-the option: 2
+<img width="887" height="447" alt="Bildschirmfoto 2026-11-19 um 22 35 27" src="https://github.com/user-attachments/assets/3907ddad-1b41-4b98-b519-55a092942edf" />
+- then enter 1:
+<img width="887" height="447" alt="Bildschirmfoto 2026-11-19 um 22 36 45" src="https://github.com/user-attachments/assets/31c464fd-4eb3-4440-bd57-9465bab42567" />
+
+
 
 
 
